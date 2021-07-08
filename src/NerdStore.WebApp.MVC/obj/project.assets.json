@@ -13216,11 +13216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectUniqueName": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "projectName": "NerdStore.WebApp.MVC",
-      "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
+      "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj",
       "packagesPath": "C:\\Users\\Saulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.WebApp.MVC\\obj\\",
+      "outputPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.WebApp.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13237,17 +13237,17 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj": {
-              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj"
+            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj": {
+              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj"
             },
-            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
-              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
+            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj": {
+              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj"
             },
-            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             },
-            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj": {
-              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj"
+            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj": {
+              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj"
             }
           }
         }

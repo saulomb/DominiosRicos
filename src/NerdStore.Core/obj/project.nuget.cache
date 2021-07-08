@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOHQfOp64xgQYsnFq9UvMqvP+s4Tj0eDloZifoKg7GKcM+0U20VFKN9jF9A5Gq9D+09ctZ1DAJ+dMfhKBZW8Yg==",
+  "dgSpecHash": "+tN2b8LfhwxprSihfHn2fgUl7ZTUtc7Igk/7bDQE+urNpzUR2Ozb3Yq3QxECCYU0LmULHGqDuqNjt0cr/N3yFw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saulo\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",

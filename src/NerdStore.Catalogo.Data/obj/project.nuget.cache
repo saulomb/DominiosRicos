@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9n0k464d8yRup11b6OG/YW4o1B79TvucxfKdUxcX6iJg6Y5SeucYA9W3GOPr4R/NAOP2cVtz6Kdl8J4m0G1ScA==",
+  "dgSpecHash": "VdlFITLEcNnkpZ1OY/GgyrIbfj0Am+KTo+96IRs/Ef4gZ190jVbh67vCWInAYSL5PvXnauusFM660RHd3VYcgA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
+  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalogo.Data\\NerdStore.Catalogo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saulo\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

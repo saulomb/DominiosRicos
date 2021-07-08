@@ -1490,11 +1490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
+      "projectUniqueName": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
       "projectName": "NerdStote.Catalago.Application",
-      "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
+      "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
       "packagesPath": "C:\\Users\\Saulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStote.Catalago.Application\\obj\\",
+      "outputPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1511,11 +1511,11 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj": {
-              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj"
+            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj": {
+              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Catalago.Domain\\NerdStore.Catalago.Domain.csproj"
             },
-            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
-              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
+            "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+              "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
             }
           }
         }

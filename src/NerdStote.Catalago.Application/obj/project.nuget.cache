@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s/xSGHaMgUv+O+IMHV7pE2Seo+MiQVv5GsCIhvyPs2iz2qIHeIBZAPrf0KX5SGVnsOAxGYKDEe7CZeLcBq+VGA==",
+  "dgSpecHash": "w+9zSpnYZOLKiKyrf4LMRzuWPEVh8j6y5nL7C4cUMG1T1GdyuGHzDuJywlW6CSQ23m/ggBo98yYZhG4IdP03CA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source - saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
+  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saulo\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
