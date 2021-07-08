@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "6dwGiMz7T6JeLp1XSdMUacoga06sNH/qlIJt7BBwzbSbYnkEAtRzlRIo4BnZvTu73Z2M6GstCaijxYhXWhUH6A==",
+  "dgSpecHash": "74Va8PtnsLfqVwL4AU/ehYTH439mMgr0qIoAxPvGJItiv5kbcgR2/N2zOC7odLdviWsuN2M9l5jI7cC6HgX3Nw==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Saulo\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
