@@ -1,4 +1,4 @@
-using NerdStore.Catalago.Domain;
+using NerdStore.Catalogo.Domain;
 using NerdStore.Core.DomainObjects;
 using System;
 using Xunit;

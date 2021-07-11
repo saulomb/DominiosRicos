@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
-using NerdStore.Catalago.Domain;
-using NerdStote.Catalago.Application.ViewModels;
+using NerdStore.Catalogo.Domain;
+using NerdStore.Catalogo.Application.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace NerdStote.Catalago.Application.AutoMapper
+namespace NerdStore.Catalogo.Application.AutoMapper
 {
     public class DomainToViewModelMappingProfile : Profile
     {

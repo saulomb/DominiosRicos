@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using NerdStore.Catalago.Domain;
+using NerdStore.Catalogo.Domain;
 
 
 namespace NerdStore.Catalogo.Data.Mappings

@@ -2,7 +2,7 @@
 using System;
 using System.Text;
 
-namespace NerdStore.Catalago.Domain
+namespace NerdStore.Catalogo.Domain
 {
     public class Produto: Entity, IAggregateRoot
     {

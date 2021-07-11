@@ -1,10 +1,11 @@
-﻿using System;
+﻿using NerdStore.Core.DomainObjects;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace NerdStore.Vendas.Domain
 {
-    public class Voucher
+    public class Voucher:Entity
     {
         public string Codigo { get; private set; }
         public decimal? Percentual { get; private set; }

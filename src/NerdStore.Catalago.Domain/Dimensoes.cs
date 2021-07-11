@@ -1,6 +1,6 @@
 ﻿using NerdStore.Core.DomainObjects;
 
-namespace NerdStore.Catalago.Domain
+namespace NerdStore.Catalogo.Domain
 {
     public class Dimensoes
     {

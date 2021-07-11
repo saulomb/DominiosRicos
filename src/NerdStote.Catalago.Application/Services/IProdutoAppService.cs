@@ -1,10 +1,10 @@
-﻿using NerdStote.Catalago.Application.ViewModels;
+﻿using NerdStore.Catalogo.Application.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NerdStote.Catalago.Application.Services
+namespace NerdStore.Catalogo.Application.Services
 {
     public interface IProdutoAppService : IDisposable
     {

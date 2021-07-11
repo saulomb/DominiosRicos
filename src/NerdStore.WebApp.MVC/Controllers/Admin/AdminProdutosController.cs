@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NerdStote.Catalago.Application.Services;
-using NerdStote.Catalago.Application.ViewModels;
+using NerdStore.Catalogo.Application.Services;
+using NerdStore.Catalogo.Application.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
