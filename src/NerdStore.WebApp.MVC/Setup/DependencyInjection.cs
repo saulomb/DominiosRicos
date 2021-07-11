@@ -4,7 +4,6 @@ using NerdStore.Catalogo.Domain;
 using NerdStore.Catalogo.Domain.Events;
 using NerdStore.Catalogo.Data;
 using NerdStore.Catalogo.Data.Repository;
-using NerdStore.Core.Bus;
 using NerdStore.Vendas.Application.Commands;
 using NerdStore.Catalogo.Application.Services;
 using System;
@@ -14,6 +13,8 @@ using System.Threading.Tasks;
 using NerdStore.Vendas.Data;
 using NerdStore.Vendas.Domain;
 using NerdStore.Vendas.Data.Repository;
+using NerdStore.Core.Messages.CommonMessages.Notifications;
+using NerdStore.Core.Communication.Mediator;
 
 namespace NerdStore.WebApp.MVC.Setup
 {
@@ -21,8 +22,11 @@ namespace NerdStore.WebApp.MVC.Setup
     {
         public static void RegisterServices(this IServiceCollection services)
         {
-            // Domain Bus (Mediator)
+            // Mediator
             services.AddScoped<IMediatorHandler, MediatrHandler>();
+
+            //Notificantions
+            services.AddScoped<INotificationHandler<DomainNotification>, DomainNotificationHandler>();
 
             // Catalogo
             services.AddScoped<IProdutoRepository, ProdutoRepository>();

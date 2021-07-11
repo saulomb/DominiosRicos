@@ -1,0 +1,54 @@
+[33mcommit 1a46a3ab930f0da5c52353288ee7df6f7ee9de15[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: saulomb <saulomb@gmail.com>
+Date:   Sun Jul 11 05:28:08 2021 -0300
+
+    Manipulando commandos na pratica
+
+[33mcommit e2eb918434940b985aa7909ed937aaa074912bb7[m
+Author: saulomb <saulomb@hotmail.com>
+Date:   Fri Jul 9 06:54:21 2021 -0300
+
+    Concluindo a atualização dos dominios do CQRS
+
+[33mcommit 662577b4f5a260b2d17f7edca711b54eca93353a[m
+Author: saulomb <saulomb@hotmail.com>
+Date:   Fri Jul 9 06:49:55 2021 -0300
+
+    Adicionando os objetos de dominio do CQRS
+
+[33mcommit 120fceb7508d3a4719e5ecfb393f72d301198a32[m
+Author: saulomb <saulomb@hotmail.com>
+Date:   Thu Jul 8 08:32:37 2021 -0300
+
+    Acrescentando o backup do databse
+
+[33mcommit 43a02ebdaa3c9a9957e18c62f9ec4c00d05ef144[m
+Author: saulomb <saulomb@hotmail.com>
+Date:   Thu Jul 8 08:29:55 2021 -0300
+
+    Iniciando a implementação do modulo de pedido
+
+[33mcommit f45c1f051b62eb49a08616eb8abb1b5a8b5d9da5[m
+Merge: b6e6346 8897d8b
+Author: saulomb <saulomb@hotmail.com>
+Date:   Thu Jul 8 06:12:30 2021 -0300
+
+    Merge branch 'main' of https://github.com/saulomb/DominiosRicos
+
+[33mcommit b6e6346040148f87780ab22de7ad751d4f5ec1cf[m
+Author: saulomb <saulomb@hotmail.com>
+Date:   Thu Jul 8 06:05:00 2021 -0300
+
+    Iniciando a implementação do CQRS
+
+[33mcommit 8897d8b63fb6a53407d4894ba466cfd289a7d6d3[m
+Author: saulomb <saulomb@gmail.com>
+Date:   Wed Jul 7 06:33:02 2021 -0300
+
+    Create README.md
+
+[33mcommit 7a8838d49a4f3392a7721a87fe8a43276d9bee1d[m
+Author: saulomb <saulomb@hotmail.com>
+Date:   Wed Jul 7 06:14:26 2021 -0300
+
+    Commit Inicial

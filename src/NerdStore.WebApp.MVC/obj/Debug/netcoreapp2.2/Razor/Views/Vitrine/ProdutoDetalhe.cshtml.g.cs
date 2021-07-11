@@ -24,9 +24,10 @@ using NerdStore.WebApp.MVC.Models;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dadd1218b8ff61b3873591dbffb47e61174c51d4", @"/Views/Vitrine/ProdutoDetalhe.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"483c27f6c0b0cb9ac93a4d13b9dbf20a87791be1", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"246ad970dd91c7456f8d33f4d8e9926f7afca0fc", @"/Views/_ViewImports.cshtml")]
     public class Views_Vitrine_ProdutoDetalhe : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<NerdStore.Catalogo.Application.ViewModels.ProdutoViewModel>
     {
+        private global::AspNetCore.Views_Vitrine_ProdutoDetalhe.__Generated__SummaryViewComponentTagHelper __SummaryViewComponentTagHelper;
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("width", new global::Microsoft.AspNetCore.Html.HtmlString("400"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_1 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("height", new global::Microsoft.AspNetCore.Html.HtmlString("400"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_2 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("method", "post", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -178,7 +179,7 @@ using NerdStore.WebApp.MVC.Models;
 
         ");
             EndContext();
-            BeginContext(2734, 1031, true);
+            BeginContext(2734, 921, true);
             WriteLiteral(@"@media (max-width: 426px) {
             .container {
                 margin-top: 0px !important;
@@ -212,16 +213,27 @@ using NerdStore.WebApp.MVC.Models;
     </style>
     <div class=""container"">
 
-        <vc:summary />
-
-        <div class=""row"">
-            <div class=""col-xs-4 item-photo"">
-
-         ");
-            WriteLiteral("       ");
+        ");
+            EndContext();
+            BeginContext(3655, 14, false);
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("vc:summary", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "dadd1218b8ff61b3873591dbffb47e61174c51d49542", async() => {
+            }
+            );
+            __SummaryViewComponentTagHelper = CreateTagHelper<global::AspNetCore.Views_Vitrine_ProdutoDetalhe.__Generated__SummaryViewComponentTagHelper>();
+            __tagHelperExecutionContext.Add(__SummaryViewComponentTagHelper);
+            await __tagHelperRunner.RunAsync(__tagHelperExecutionContext);
+            if (!__tagHelperExecutionContext.Output.IsContentModified)
+            {
+                await __tagHelperExecutionContext.SetOutputContentAsync();
+            }
+            Write(__tagHelperExecutionContext.Output);
+            __tagHelperExecutionContext = __tagHelperScopeManager.End();
+            EndContext();
+            BeginContext(3669, 96, true);
+            WriteLiteral("\r\n\r\n        <div class=\"row\">\r\n            <div class=\"col-xs-4 item-photo\">\r\n\r\n                ");
             EndContext();
             BeginContext(3765, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "dadd1218b8ff61b3873591dbffb47e61174c51d49547", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "dadd1218b8ff61b3873591dbffb47e61174c51d410691", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -288,7 +300,7 @@ AddHtmlAttributeValue("", 3809, Model.Imagem, 3809, 13, false);
             WriteLiteral("</p>\r\n                ");
             EndContext();
             BeginContext(4230, 1043, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dadd1218b8ff61b3873591dbffb47e61174c51d413315", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dadd1218b8ff61b3873591dbffb47e61174c51d414460", async() => {
                 BeginContext(4303, 62, true);
                 WriteLiteral("\r\n\r\n                    <input type=\"hidden\" id=\"Id\" name=\"Id\"");
                 EndContext();
@@ -398,6 +410,24 @@ WriteAttributeValue("", 4373, Model.Id, 4373, 9, false);
         public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<NerdStore.Catalogo.Application.ViewModels.ProdutoViewModel> Html { get; private set; }
+        [Microsoft.AspNetCore.Razor.TagHelpers.HtmlTargetElementAttribute("vc:summary")]
+        public class __Generated__SummaryViewComponentTagHelper : Microsoft.AspNetCore.Razor.TagHelpers.TagHelper
+        {
+            private readonly global::Microsoft.AspNetCore.Mvc.IViewComponentHelper _helper = null;
+            public __Generated__SummaryViewComponentTagHelper(global::Microsoft.AspNetCore.Mvc.IViewComponentHelper helper)
+            {
+                _helper = helper;
+            }
+            [Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeNotBoundAttribute, global::Microsoft.AspNetCore.Mvc.ViewFeatures.ViewContextAttribute]
+            public global::Microsoft.AspNetCore.Mvc.Rendering.ViewContext ViewContext { get; set; }
+            public override async global::System.Threading.Tasks.Task ProcessAsync(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext context, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput output)
+            {
+                (_helper as global::Microsoft.AspNetCore.Mvc.ViewFeatures.IViewContextAware)?.Contextualize(ViewContext);
+                var content = await _helper.InvokeAsync("Summary", new {  });
+                output.TagName = null;
+                output.Content.SetHtmlContent(content);
+            }
+        }
     }
 }
 #pragma warning restore 1591
