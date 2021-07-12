@@ -15,4 +15,3 @@ C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\N
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp2.1\NerdStore.Core.csproj.CoreCompileInputs.cache
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp2.1\NerdStore.Core.dll
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp2.1\NerdStore.Core.pdb
-C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Core\obj\Debug\netcoreapp2.1\NerdStore.Core.csproj.AssemblyReference.cache
