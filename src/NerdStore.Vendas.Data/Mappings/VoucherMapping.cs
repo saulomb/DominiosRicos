@@ -16,11 +16,9 @@ namespace NerdStore.Catalogo.Data.Mappings
                 .HasColumnType("varchar(100)");
 
             builder.Property(c => c.ValorDesconto)
-                .IsRequired()
                 .HasColumnType("decimal(8,2)");
 
             builder.Property(c => c.Percentual)
-                .IsRequired()
                 .HasColumnType("decimal(4,2");
 
 

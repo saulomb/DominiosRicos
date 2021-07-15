@@ -103,3 +103,5 @@ C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\N
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.dll
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Data.pdb
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
