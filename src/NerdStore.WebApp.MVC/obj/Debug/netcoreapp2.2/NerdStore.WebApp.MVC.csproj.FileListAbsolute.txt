@@ -106,3 +106,9 @@ C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\N
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\ResumoDaCompra.cshtml.g.cs
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Data.dll
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.AntiCorruption.pdb
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.WebApp.MVC\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Data.pdb
