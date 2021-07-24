@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HllfFepvEWArta/xf8WGRL0+eJ7MF9jwAl/5LxRqDEm5tBMztjXFUtHgsZKcvmOT2WqYA4ocK7/IZPlpMv9Z4w==",
+  "dgSpecHash": "2K/cGgrMmfv2TgBmsvIFtVxOhS3AGoC30EIxuqhXLwjw0DqwEvdU6JX4BiG6ZEPm7ICVxNd3wFSQ8HKA2RtoqA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj",
+  "projectFilePath": "C:\\Dev\\_Desenvolvedor.IO\\Modelagem de Domínios Ricos\\3-source-event_sourcing\\NerdStore\\src\\NerdStore.Pagamentos.Business\\NerdStore.Pagamentos.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saulo\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",

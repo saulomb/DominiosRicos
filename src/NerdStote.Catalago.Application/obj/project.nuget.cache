@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qR1CSI5+V3ocjte5kNS0FMdUGUusBAIiHwOsZMs4pEDHOoAbnFDxdQ33oRsoOnUbka4dEffCQRpMDIuR6h60hw==",
+  "dgSpecHash": "PrWpaukZlgPRstjHCWCJPHVctU70qv/8TeEv+/eXsB1gz/lJNBQaRMASczVKwHlWSTCjjHZzExcp6MKz6s3UYQ==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
+  "projectFilePath": "C:\\Dev\\_Desenvolvedor.IO\\Modelagem de Domínios Ricos\\3-source-event_sourcing\\NerdStore\\src\\NerdStote.Catalago.Application\\NerdStote.Catalago.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saulo\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",

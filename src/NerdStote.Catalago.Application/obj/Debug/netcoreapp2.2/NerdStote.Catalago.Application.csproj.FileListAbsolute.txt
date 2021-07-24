@@ -12,3 +12,17 @@ C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\N
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.csproj.CopyComplete
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.dll
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStote.Catalago.Application.deps.json
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStote.Catalago.Application.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStote.Catalago.Application.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalago.Domain.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStore.Catalago.Domain.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.csproj.AssemblyReference.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.AssemblyInfoInputs.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.AssemblyInfo.cs
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.csproj.CoreCompileInputs.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.csproj.CopyComplete
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStote.Catalago.Application\obj\Debug\netcoreapp2.2\NerdStote.Catalago.Application.pdb

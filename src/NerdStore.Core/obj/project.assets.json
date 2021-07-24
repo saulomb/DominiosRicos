@@ -845,11 +845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+      "projectUniqueName": "C:\\Dev\\_Desenvolvedor.IO\\Modelagem de Domínios Ricos\\3-source-event_sourcing\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
       "projectName": "NerdStore.Core",
-      "projectPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+      "projectPath": "C:\\Dev\\_Desenvolvedor.IO\\Modelagem de Domínios Ricos\\3-source-event_sourcing\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
       "packagesPath": "C:\\Users\\Saulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Core\\obj\\",
+      "outputPath": "C:\\Dev\\_Desenvolvedor.IO\\Modelagem de Domínios Ricos\\3-source-event_sourcing\\NerdStore\\src\\NerdStore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",

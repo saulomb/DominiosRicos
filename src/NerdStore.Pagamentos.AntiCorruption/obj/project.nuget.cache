@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+NRafj88VqWEeWs7ewZr17mYTJl4pp24nLssJFowUACfHM0tJ7vSPHSopSH3YZot78drOuDwiS8az1WmDjv9Lg==",
+  "dgSpecHash": "8EcKwUeFa2fHO4q+fVVfa84UPIhpfzDiWJJ/3AiIR5yr5vMUEE+tyRIDz/aGrzDGXE5aosCgOrdCfZC16cGB3A==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Desenvolvedor.IO\\Modelagem de Domínios Ricos\\source-saga\\NerdStore\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj",
+  "projectFilePath": "C:\\Dev\\_Desenvolvedor.IO\\Modelagem de Domínios Ricos\\3-source-event_sourcing\\NerdStore\\src\\NerdStore.Pagamentos.AntiCorruption\\NerdStore.Pagamentos.AntiCorruption.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Saulo\\.nuget\\packages\\fluentvalidation\\8.4.0\\fluentvalidation.8.4.0.nupkg.sha512",
     "C:\\Users\\Saulo\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\N
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CopyComplete
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.deps.json
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.AssemblyReference.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.csproj.CopyComplete
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp2.2\NerdStore.Pagamentos.Business.pdb

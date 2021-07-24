@@ -50,7 +50,7 @@ namespace NerdStore.Vendas.Application.Queries
             return carrinho;
         }
 
-        public async Task<IEnumerable<PedidoViewModel>> ObterPedidoCliente(Guid clienteId)
+        public async Task<IEnumerable<PedidoViewModel>> ObterPedidosCliente(Guid clienteId)
         {
             var pedidos = await _pedidoRepository.ObterListaPorClienteId(clienteId);
 

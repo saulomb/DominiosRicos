@@ -9,6 +9,6 @@ namespace NerdStore.Vendas.Application.Queries
     public interface IPedidoQueries
     {
         Task<CarrinhoViewModel> ObterCarrinhoCliente(Guid clienteId);
-        Task<IEnumerable<PedidoViewModel>> ObterPedidoCliente(Guid clienteId);
+        Task<IEnumerable<PedidoViewModel>> ObterPedidosCliente(Guid clienteId);
     }
 }

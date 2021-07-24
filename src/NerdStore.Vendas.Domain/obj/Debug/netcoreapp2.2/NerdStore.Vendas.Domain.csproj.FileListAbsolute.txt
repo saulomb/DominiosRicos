@@ -10,3 +10,15 @@ C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\N
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
 C:\Dev\Desenvolvedor.IO\Modelagem de Domínios Ricos\source-saga\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.deps.json
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Dev\_Desenvolvedor.IO\Modelagem de Domínios Ricos\3-source-event_sourcing\NerdStore\src\NerdStore.Vendas.Domain\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
